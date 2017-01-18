@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "testing github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarkkopie/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarkkopie/hello-world/issues"
+  },
+  "homepage": "https://github.com/jarkkopie/hello-world#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "ment.io": "^0.9.23"
+  }
+}
